@@ -4,7 +4,7 @@ Exploratory data analysis of **545 house listings** to understand what drives ho
 
 > Minor Project — Data Science Internship at **Elewayte** (Internship Partner: Cubestech)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Charts-teal)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Charts-teal) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Dataset
 
@@ -51,3 +51,8 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter / Google Colab
 
 **Kushal Rawat** — Data Analyst | BCA (AI & Data Science), JECRC University, Jaipur
 [LinkedIn](https://www.linkedin.com/in/kushal-rawat-data/) · [GitHub](https://github.com/kushalrawat2005-19)
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
